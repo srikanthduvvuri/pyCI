@@ -1,0 +1,33 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.macosx-11.1-arm64' does not exist -- can't clean it
+'build/scripts-3.11' does not exist -- can't clean it
+running sdist
+running egg_info
+creating pyCI.egg-info
+writing pyCI.egg-info/PKG-INFO
+writing dependency_links to pyCI.egg-info/dependency_links.txt
+writing namespace_packages to pyCI.egg-info/namespace_packages.txt
+writing top-level names to pyCI.egg-info/top_level.txt
+writing manifest file 'pyCI.egg-info/SOURCES.txt'
+reading manifest file 'pyCI.egg-info/SOURCES.txt'
+writing manifest file 'pyCI.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating pyCI-1.0.dev0
+creating pyCI-1.0.dev0/pyCI.egg-info
+copying files to pyCI-1.0.dev0...
+copying helloworld.py -> pyCI-1.0.dev0
+copying setup.py -> pyCI-1.0.dev0
+copying pyCI.egg-info/PKG-INFO -> pyCI-1.0.dev0/pyCI.egg-info
+copying pyCI.egg-info/SOURCES.txt -> pyCI-1.0.dev0/pyCI.egg-info
+copying pyCI.egg-info/dependency_links.txt -> pyCI-1.0.dev0/pyCI.egg-info
+copying pyCI.egg-info/namespace_packages.txt -> pyCI-1.0.dev0/pyCI.egg-info
+copying pyCI.egg-info/top_level.txt -> pyCI-1.0.dev0/pyCI.egg-info
+copying pyCI.egg-info/zip-safe -> pyCI-1.0.dev0/pyCI.egg-info
+copying pyCI.egg-info/SOURCES.txt -> pyCI-1.0.dev0/pyCI.egg-info
+Writing pyCI-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'pyCI-1.0.dev0' (and everything under it)
